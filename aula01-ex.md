@@ -8,9 +8,11 @@
 4. No modo **interativo**, o shell só recebe comandos pela entrada padrão.
 5. O shell `sh` sempre será encontrado no diretório `/bin` no GNU/Linux.
 
-**Resposta:**
+**Resposta:** F V V V F
 
 **Justificativas:**
+1. O shell tem a capacidade de executar programas.
+5. Pode ser encontrado em /usr/bin/sh.
 
 **2. Utilizando o `help` e o `man bash`, descubra quais são as opções do *builtin* `compgen` para imprimir listas de...**
 
